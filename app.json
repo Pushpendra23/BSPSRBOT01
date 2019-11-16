@@ -1,0 +1,13 @@
+{
+  "name": "Pushpendra",
+  "description": "Bot by PSR.",
+  "repository": "https://github.com/Pushpendra23/BSPSRBOT01.git",
+  "keywords": ["python", "discord.py" ],
+  "environments": {
+    "test": {
+      "scripts": {
+        "setup": "main.py"
+      }
+    }
+  }
+}
